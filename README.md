@@ -15,7 +15,7 @@ AI Meeting Notes Summarizer is a web application that allows users to quickly ge
 
 ## Tech Stack
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js / Express.js (if applicable)
+- **Backend:** Node.js / Express.js 
 - **AI Integration:** Groq Api
 - **Version Control:** Git & GitHub
 
